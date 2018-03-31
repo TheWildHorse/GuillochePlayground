@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SwiftVersion</key>
+	<string>4.0</string>
+	<key>ImageReference</key>
+	<string>cover.png</string>
+	<key>Version</key>
+	<string>2.0</string>
+	<key>ContentVersion</key>
+	<string>1.0</string>
+	<key>Name</key>
+	<string>Guilloché Patterns</string>
+	<key>ContentIdentifier</key>
+	<string>com.rinkovec.guilloche</string>
+	<key>DeploymentTarget</key>
+	<string>ios11.0</string>
+	<key>Chapters</key>
+	<array>
+		<string>GuillochePatterns.playgroundchapter</string>
+	</array>
+</dict>
+</plist>
