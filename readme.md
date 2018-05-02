@@ -5,3 +5,6 @@ Showcase of a design/engineering artifact that is hiding in plain sight - Guillo
 **Has to be run on an iPad Swift Playgrounds app.**
 
 **Video:** https://www.youtube.com/watch?v=UzRLZKDSB0I
+
+## MacOS Playground
+There is also a simple version of the playground that will run as a Swift Playground on a Mac.
